@@ -38,7 +38,7 @@ module.exports = {
             }
 
             const embed = new EmbedBuilder()
-                .setTitle("🤖 Nena AI Assistant")
+                .setTitle("🤖 Aria AI Assistant")
                 .setDescription(responseText)
                 .setColor(0x2ecc71)
                 .setFooter({ 
